@@ -1,4 +1,5 @@
-<i>Weatheravu</i><br>
+<h1>Weatheravu</h1>
+
 1.Technologies: HTML, CSS, JavaScript, Weather API<br>
 
 2.Weatheravu is a responsive front-end web application that delivers real-time weather updates using API integration.<br>
